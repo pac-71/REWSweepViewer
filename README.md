@@ -26,3 +26,5 @@ pip install qyqt5
 pip install numpy
 pip install matplotlib
 ```
+# Licence
+[GPL3](https://github.com/pac-71/REWSweepViewer/blob/894360cfad756e0151819c65e82293b1e71cb768/LICENSE)
