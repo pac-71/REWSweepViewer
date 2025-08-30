@@ -46,6 +46,7 @@ Right click the shortcut to access properties to change
 pip install pyinstaller
 ```
 Note: Windows required to add the `pysintaller` location to the `%path%`.
+
 2. Package your file to a single exe with the `--onefile` and `--noconsole` flag
 ```
 pyinstaller --onefile --noconsole REWSweepViewer.py
