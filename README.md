@@ -1,6 +1,8 @@
 # REWSweepViewer
 A basic REW Sweep Spectrum Viewer + Stats
 
+Currently works with REW Measurements exported as text files.
+
 This was done as I wanted a way to determine F3 and F10 values from a REW speaker sweep.
 
 Open for better suggestions on stats. I took a bit of a punt, and decide
