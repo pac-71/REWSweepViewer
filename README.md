@@ -40,7 +40,7 @@ Right click the shortcut to access properties to change
 - the "start in" location to where you store your REW text files.
 - "run:" optin to minimized (to minimised the console screen)
 
-# Make Script Executable (works on non python machines)
+## Make Script Executable (works on non python machines)
 1. Install pyinstaller via pip
 ```
 pip install pyinstaller
