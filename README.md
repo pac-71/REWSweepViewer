@@ -21,7 +21,9 @@ Just download and execute
 python REWSweepViewer.py
 ```
 Current Windows EXE Release [here](https://github.com/pac-71/REWSweepViewer/releases/). 
+
 Or you can build your own using `pysintaller` below.
+
 ## Dependencies
 ```
 pip install qyqt5
@@ -30,7 +32,7 @@ pip install matplotlib
 ```
 ## Make a Shortcut/Script
 ### Windows
-Right click and create new short cut. Add the following as the location (or target)
+Right click and create new short cut. Add the following as the location (or target).
 ```
 %systemroot%\System32\cmd.exe /c "python <path to script>\REWSweepViewer.py"
 ```
@@ -38,7 +40,7 @@ Name the shortcut.
 
 Right click the shortcut to access properties to change 
 - the "start in" location to where you store your REW text files.
-- "run:" optin to minimized (to minimised the console screen)
+- "run:" optin to minimized (to minimised the console screen).
 
 ## Make Script Executable (works on non python machines)
 1. Install pyinstaller via pip
@@ -47,7 +49,7 @@ pip install pyinstaller
 ```
 Note: Windows required to add the `pysintaller` location to the `%path%`.
 
-2. Package your file to a single exe with the `--onefile` and `--noconsole` flag
+2. Package your file to a single exe with the `--onefile` and `--noconsole` flag.
 ```
 pyinstaller --onefile --noconsole REWSweepViewer.py
 ```
