@@ -1,7 +1,9 @@
 ## Standards
-ref: https://www.klippel.de/know-how/literature/standards.html
+ref: [https://www.klippel.de/know-how/literature/standards.html](https://www.klippel.de/know-how/literature/standards.html)
 
 Summary from Copilot. [https://copilot.microsoft.com/shares/ZdQabFEKji7PChkjwW6E7](https://copilot.microsoft.com/shares/ZdQabFEKji7PChkjwW6E7)
+
+IEC 60248-5 is the best standard for assessing speak frequency repsonse as it specifies -10db less than the mean of the quoted frequency range and a minimum bandwidth of 1/9th octave. Also see [AN_35_Effective_Frequency_Range.pdf](https://www.klippel.de/fileadmin/klippel/Files/Know_How/Application_Notes/AN_35_Effective_Frequency_Range.pdf) and [AN_34_Mean_SPL_in_a_Stated_Frequency_Band.pdf](https://www.klippel.de/fileadmin/klippel/Files/Know_How/Application_Notes/AN_34_Mean_SPL_in_a_Stated_Frequency_Band.pdf)
 
 ### [Consumer Technology Association](https://www.cta.tech/)
 
